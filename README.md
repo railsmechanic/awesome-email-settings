@@ -9,18 +9,18 @@ This list is for all those, who are fed up with trying out thousands of possible
 - [Ionos (www.ionos.com)](#ionos)
 - [Uberspace (uberspace.de)](#uberspace)
 
-### Domainfactory
+## Domainfactory
 * [Django](#awesome-email-settings)
 * [Rails](#awesome-email-settings)
 
-### Google Mail
+## Google Mail
 * [Django](#awesome-email-settings)
 * [Rails](#awesome-email-settings)
 
-### Ionos
+## Ionos
 * [Django](#awesome-email-settings)
 * [Rails](#awesome-email-settings)
 
-### Uberspace
+## Uberspace
 * [Django](#awesome-email-settings)
 * [Rails](#awesome-email-settings)
