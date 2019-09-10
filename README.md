@@ -3,6 +3,9 @@ A curated list of email settings for email providers to be used with your web fr
 
 - [Awesome email settings for](#awesome-email-settings)
     - [Domainfactory (www.df.eu)](#domainfactory)
+    - [Google Mail (www.gmail.com)](#google-mail)
+    - [Ionos (www.ionos.com)](#ionos)
+    - [Uberspace (uberspace.de)](#uberspace)
 
 ## Domainfactory
 * [Django](#awesome-email-settings)
@@ -12,7 +15,7 @@ A curated list of email settings for email providers to be used with your web fr
 * [Django](#awesome-email-settings)
 * [Rails](#awesome-email-settings)
 
-## IONOS
+## Ionos
 * [Django](#awesome-email-settings)
 * [Rails](#awesome-email-settings)
 
