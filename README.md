@@ -4,7 +4,7 @@ A curated list of email settings for email providers to be used with your web fr
 - [Awesome email settings for](#awesome-email-settings)
     - [Domainfactory (www.df.eu)](#domainfactory)
 
-## Domainfactory (#domainfactory)
+## Domainfactory
 
 * [Django](#awesome-email-settings)
 * [Rails](#awesome-email-settings)
