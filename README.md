@@ -1,6 +1,7 @@
 # Awesome email settings [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A list of curated email settings of your email providers according to your web framework:
+A curated list of provider specific email settings which can be used with your web framework.
 
+# Provider list
 - [Domainfactory (www.df.eu)](#domainfactory)
 - [Google Mail (www.gmail.com)](#google-mail)
 - [Ionos (www.ionos.com)](#ionos)
